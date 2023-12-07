@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const CallActionBox = () => {
+const OutgoingCallScreen = () => {
   return (
     <View>
-      <Text>CallActionBox</Text>
+      <Text>OutgoingCallScreen</Text>
     </View>
   )
 }
 
-export default CallActionBox
+export default OutgoingCallScreen
 
 const styles = StyleSheet.create({})
