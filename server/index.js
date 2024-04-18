@@ -15,6 +15,7 @@ let port = process.env.PORT || 3500;
 initIO(httpServer);
 
 httpServer.listen(port);
-console.log("Server started on ", port);
+console.log("Server started on ", 3500);
 
 getIO();
+//IP-ADDRESS 192.168.43.3
